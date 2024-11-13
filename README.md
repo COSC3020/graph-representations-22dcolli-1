@@ -29,6 +29,8 @@ otherwise. I am aware that plagiarism carries severe penalties and that if plagi
 suspected, charges may be filed against me without prior notice.”
 
 ## Note
-I did not complete this excersise last semester, so I am attempting this completely from scratch. I did discuss this with Lily Brongo and then referenced Ishita Patel's repository from last semester to confirm my logic before submission.
+I did not complete this excersise last semester, so I am attempting this completely from scratch. I did discuss this with Lily Brongo and then referenced Ishita Patel's repository from last semester to confirm my logic for the code and response before submission.
 
 ## Answer
+
+The complexity depends on the vertices, with the for loops iterating for the amount of vertices each and the inner if statement making a check in constant time. This means that the runtime would be $\Theta(|V^2|)$.
