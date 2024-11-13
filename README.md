@@ -33,4 +33,4 @@ I did not complete this excersise last semester, so I am attempting this complet
 
 ## Answer
 
-The complexity depends on the vertices, with the for loops iterating for the amount of vertices each for the rows and columns respectively( $\Theta(|V|)$ ), and the inner if statement making a check for an edge in constant time. This means that the runtime would be $\Theta(|V^2|)$.
+The complexity depends on the vertices, with the for loops iterating for the amount of vertices each for the rows and columns respectively ( $\Theta(|V|)$ ), and the inner if statement making a check for an edge in constant time. This means that the runtime would be $\Theta(|V^2|)$.
